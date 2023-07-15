@@ -1,0 +1,1 @@
+import{F as s,o,x as t,G as _,H as c,y as a}from"./index-cc1775bd.js";const n="/assets/404-51130a9e.gif";const d={},p=e=>(_("data-v-3b0ea86e"),e=e(),c(),e),r={class:"not-found"},i=p(()=>a("img",{src:n,alt:"您访问的页面不存在哦~"},null,-1)),l=[i];function f(e,u){return o(),t("div",r,l)}const m=s(d,[["render",f],["__scopeId","data-v-3b0ea86e"]]);export{m as default};
